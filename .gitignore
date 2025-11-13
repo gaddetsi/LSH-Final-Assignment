@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+*.npz
+*.log
+results/*
+!.gitkeep
+data/*
+!.gitkeep
