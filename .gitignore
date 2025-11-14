@@ -10,3 +10,4 @@ results/*
 !.gitkeep
 data/*
 !.gitkeep
+.user_movie_ratings.py
